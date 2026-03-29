@@ -1212,6 +1212,22 @@ h4,
     color: #fff6d8;
 }
 
+.opportunities-table caption {
+    caption-side: top;
+    text-align: left;
+    padding: 0 0 0.65rem;
+    font-family: "Trebuchet MS", "Gill Sans", "Segoe UI", sans-serif;
+    font-size: 1.12rem;
+    font-weight: 600;
+    line-height: 1.35;
+    letter-spacing: 0;
+    color: #b2c0d0;
+}
+
+.opportunities-table {
+    margin-top: 0;
+}
+
 input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="tel"]:focus,
